@@ -1,1 +1,1 @@
-# Snakes are super cool
+# Snakes
